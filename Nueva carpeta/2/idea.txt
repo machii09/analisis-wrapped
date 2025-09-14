@@ -1,0 +1,35 @@
+1. cantidad de mensajes por mes
+2. nube de palabras con las palabras mas usadas
+3. quien envia mas mensajes 
+4. mi archivo de la conversacion se llama: Chat.txt 
+este es el formato de mi chat:
+16/5/2024, 11:37 p. m. - ‎Albert ♡ es un contacto.
+16/5/2024, 11:37 p. m. - Albert ♡: <Multimedia omitido>
+16/5/2024, 11:37 p. m. - Albert ♡: Oa
+16/5/2024, 11:37 p. m. - Albert ♡: Soy Albert
+16/5/2024, 11:39 p. m. - Massiel~🌸: Ay yo no te tenía agregado
+16/5/2024, 11:39 p. m. - Massiel~🌸: 👀
+16/5/2024, 11:39 p. m. - Albert ♡: Este número lo tienes hace años?
+16/5/2024, 11:40 p. m. - Massiel~🌸: Este si
+16/5/2024, 11:41 p. m. - Massiel~🌸: Es el número q más me ha durado
+16/5/2024, 11:41 p. m. - Albert ♡: Ah puede ser entonces
+16/5/2024, 11:41 p. m. - Albert ♡: Supongo que ahce años si
+16/5/2024, 11:41 p. m. - Albert ♡: Ahí en messenger vi que te pedí hace años
+16/5/2024, 11:41 p. m. - Albert ♡: Pero no esta el número por alguna razón
+16/5/2024, 11:42 p. m. - Massiel~🌸: Ahhh se me había olvidado
+16/5/2024, 11:42 p. m. - Albert ♡: Y que tal , como te fue de intercambio
+16/5/2024, 11:43 p. m. - Massiel~🌸: Me fue bn aprobé todo
+16/5/2024, 11:43 p. m. - Massiel~🌸: Y por fin me sentí independiente
+16/5/2024, 11:43 p. m. - Massiel~🌸: Aunq lo veo super barato allá
+16/5/2024, 11:44 p. m. - Albert ♡: Chcha
+16/5/2024, 11:44 p. m. - Albert ♡: Pero
+16/5/2024, 11:44 p. m. - Albert ♡: No tenias roomies
+16/5/2024, 11:44 p. m. - Albert ♡: O era totalmente sola ?
+16/5/2024, 11:45 p. m. - Massiel~🌸: En mi caso no era una residencia cada uno tenía su cuarto
+16/5/2024, 11:45 p. m. - Massiel~🌸: Y la sala y cocina era compartida por piso
+16/5/2024, 11:47 p. m. - Albert ♡: Aquí por ejemplo en el hotel que comparten tiene sus cuartos independientes y tiene su nona o algo así lendicen
+16/5/2024, 11:47 p. m. - Albert ♡: A la que le piden permiso y les cocina
+16/5/2024, 11:53 p. m. - Massiel~🌸: Así me dijeron q se quedan cerca de zela
+16/5/2024, 11:53 p. m. - Massiel~🌸: Hay un hotel
+
+5. necesito q me analices el txt, me hagas las tareas q te solicite en un script de python
